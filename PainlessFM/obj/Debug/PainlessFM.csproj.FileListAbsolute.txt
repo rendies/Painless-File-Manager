@@ -1,0 +1,10 @@
+C:\Users\rendi.suherman\Source\Repos\Painless-File-Manager\PainlessFM\bin\Debug\PainlessFM.exe.config
+C:\Users\rendi.suherman\Source\Repos\Painless-File-Manager\PainlessFM\bin\Debug\PainlessFM.exe
+C:\Users\rendi.suherman\Source\Repos\Painless-File-Manager\PainlessFM\bin\Debug\PainlessFM.pdb
+C:\Users\rendi.suherman\Source\Repos\Painless-File-Manager\PainlessFM\obj\Debug\PainlessFM.csprojResolveAssemblyReference.cache
+C:\Users\rendi.suherman\Source\Repos\Painless-File-Manager\PainlessFM\obj\Debug\PainlessFM.Form1.resources
+C:\Users\rendi.suherman\Source\Repos\Painless-File-Manager\PainlessFM\obj\Debug\PainlessFM.Properties.Resources.resources
+C:\Users\rendi.suherman\Source\Repos\Painless-File-Manager\PainlessFM\obj\Debug\PainlessFM.csproj.GenerateResource.cache
+C:\Users\rendi.suherman\Source\Repos\Painless-File-Manager\PainlessFM\obj\Debug\PainlessFM.csproj.CoreCompileInputs.cache
+C:\Users\rendi.suherman\Source\Repos\Painless-File-Manager\PainlessFM\obj\Debug\PainlessFM.exe
+C:\Users\rendi.suherman\Source\Repos\Painless-File-Manager\PainlessFM\obj\Debug\PainlessFM.pdb
